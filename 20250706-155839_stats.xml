@@ -1,0 +1,32 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="11" damage_taken="9.70858" dead="1" death_count="0" death_pos.x="-120.782" death_pos.y="4913.35" enemies_killed="92" gold="48493" gold_all="62253" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="14" kicks="5" killed_by=" | Holy Mountain's curse" killed_by_extra="" places_visited="11" playtime="7154.7" playtime_str="1:59:14" projectiles_shot="23553" streaks="0" teleports="0" wands_edited="3" world_seed="1755581907" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="11" damage_taken="9.4953" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="92" gold="48493" gold_all="62253" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="14" kicks="5" killed_by="" killed_by_extra="" places_visited="11" playtime="7151.72" playtime_str="1:59:11" projectiles_shot="23508" streaks="0" teleports="0" wands_edited="3" world_seed="1755581907" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_boss_sky" value="1" >
+    </E>
+    <E key="$biome_clouds" value="1" >
+    </E>
+    <E key="$biome_desert" value="1" >
+    </E>
+    <E key="$biome_fun" value="1" >
+    </E>
+    <E key="$biome_gold" value="1" >
+    </E>
+    <E key="$biome_liquidcave" value="1" >
+    </E>
+    <E key="$biome_pyramid" value="1" >
+    </E>
+    <E key="$biome_secret_lab" value="1" >
+    </E>
+    <E key="$biome_watchtower" value="1" >
+    </E>
+    <E key="$biome_winter" value="1" >
+    </E>
+    <E key="???" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

@@ -1,0 +1,12 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="1" damage_taken="18.9807" dead="1" death_count="0" death_pos.x="1565.2" death_pos.y="12043.2" enemies_killed="93" gold="19797" gold_all="26167" gold_infinite="0" healed="10.5" heart_containers="0" hp="100" items="7" kicks="6" killed_by="Kirottu kristalli | projectile" killed_by_extra="" places_visited="1" playtime="4821.83" playtime_str="1:20:21" projectiles_shot="1192" streaks="0" teleports="0" wands_edited="4" world_seed="284130016" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="0" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="3877" gold_all="8097" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="0" kicks="0" killed_by="" killed_by_extra="" places_visited="0" playtime="3332.28" playtime_str="0:55:32" projectiles_shot="0" streaks="0" teleports="0" wands_edited="0" world_seed="284130016" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_crypt" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

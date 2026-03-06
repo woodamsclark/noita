@@ -1,0 +1,34 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="12" damage_taken="53.386" dead="1" death_count="0" death_pos.x="-2522.07" death_pos.y="11440.8" enemies_killed="726" gold="7880" gold_all="18095" gold_infinite="0" healed="33.2" heart_containers="0" hp="100" items="49" kicks="63" killed_by="Kiukkukalma | projectile" killed_by_extra="" places_visited="12" playtime="9069.37" playtime_str="2:31:09" projectiles_shot="41575" streaks="0" teleports="1" wands_edited="25" world_seed="338339987" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="11" damage_taken="43.3506" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="656" gold="2680" gold_all="12895" gold_infinite="0" healed="33.2" heart_containers="0" hp="100" items="48" kicks="62" killed_by="" killed_by_extra="" places_visited="11" playtime="8558.42" playtime_str="2:22:38" projectiles_shot="40248" streaks="0" teleports="0" wands_edited="24" world_seed="338339987" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_coalmine_alt" value="1" >
+    </E>
+    <E key="$biome_crypt" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_fungicave" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_rainforest" value="1" >
+    </E>
+    <E key="$biome_rainforest_dark" value="1" >
+    </E>
+    <E key="$biome_snowcastle" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+    <E key="$biome_vault" value="1" >
+    </E>
+    <E key="$biome_wandcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

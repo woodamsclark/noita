@@ -1,0 +1,18 @@
+<Stats BUILD_NAME="Noita-Build-Jan 25 2025-15:55:41" >
+  <stats biomes_visited_with_wands="4" damage_taken="10.742" dead="1" death_count="0" death_pos.x="-1765.02" death_pos.y="3968.84" enemies_killed="113" gold="1203" gold_all="2123" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="19" kicks="15" killed_by=" | damage from material: freezing vapour" killed_by_extra="" places_visited="4" playtime="1675.95" playtime_str="0:27:55" projectiles_shot="8138" streaks="0" teleports="0" wands_edited="10" world_seed="2140292438" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="2" damage_taken="2.80161" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="21" gold="335" gold_all="625" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="6" kicks="3" killed_by="" killed_by_extra="" places_visited="2" playtime="391.45" playtime_str="0:06:31" projectiles_shot="132" streaks="0" teleports="0" wands_edited="4" world_seed="2140292438" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_coalmine" value="1" >
+    </E>
+    <E key="$biome_excavationsite" value="1" >
+    </E>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+    <E key="$biome_snowcave" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>
